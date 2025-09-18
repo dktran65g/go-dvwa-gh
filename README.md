@@ -1,5 +1,6 @@
 # [Sqreen](https://www.sqreen.com/)'s Go Damn Vulnerable Web App
 
+
 This Go web server is a vulnerable application demonstration, protected by
 Sqreen.
 
